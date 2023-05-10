@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/project3-mernstack-app/static/css/main.28346961.css",
-    "main.js": "/project3-mernstack-app/static/js/main.0ce1d3cd.js",
+    "main.css": "/project3-mernstack-app/static/css/main.f071b465.css",
+    "main.js": "/project3-mernstack-app/static/js/main.7dbfec56.js",
     "index.html": "/project3-mernstack-app/index.html",
-    "main.28346961.css.map": "/project3-mernstack-app/static/css/main.28346961.css.map",
-    "main.0ce1d3cd.js.map": "/project3-mernstack-app/static/js/main.0ce1d3cd.js.map"
+    "main.f071b465.css.map": "/project3-mernstack-app/static/css/main.f071b465.css.map",
+    "main.7dbfec56.js.map": "/project3-mernstack-app/static/js/main.7dbfec56.js.map"
   },
   "entrypoints": [
-    "static/css/main.28346961.css",
-    "static/js/main.0ce1d3cd.js"
+    "static/css/main.f071b465.css",
+    "static/js/main.7dbfec56.js"
   ]
 }
