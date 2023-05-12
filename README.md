@@ -24,10 +24,6 @@ A MERN Full-Stack Website that allows users to sign-up for an account, read, pos
 
 ## GETTING STARTED/CODE INSTALLATION
 
--To begin with a GitHub Repository was set up with was cloned by the team members. 
--A number of packages needed to be installed in the code as dependencies. To make the process as neat as possible it was decided that one person do the installations and the others do a git pull running a subsequent npm install.  
--Visual Studio was utilised as a code editor. 
-
   - To begin with a GitHub Repository called **project3-mernstack-app** was set up that was cloned by all the team members. 
   - A number of packages needed to be installed in the code as dependencies in both the front-end and back-end directories. To make the process as neat as possible (and primarily to avoid GitHub merge conflicts) it was decided that one person would do the package installations relevant to their bit of coding and then everyone else would run a `git pull` command in their command-line interface (CLI) terminal. This would merge the *package-json* dependencies to everyone's code and then each member could run an `npm install` command in their own CLI terminal.  
   - We all used Visual Studio as a code editor. Initially, two team members (Franziska and Hari) tried to use VS Code's **Live Share** feature to programme as a pair, but confusion relating to merge conflicts resulted in its prompt abandonment.
