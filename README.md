@@ -17,60 +17,10 @@ A MERN Full-Stack Website that allows users to sign-up for an account, read, pos
 
 
 ## BRIEF
-<<<<<<< HEAD
 
 -A set of Requirements was provided to the project team for the front-end, back-end and layout. These are captured here: 
 
 [MVP](https://docs.google.com/document/d/11-8h-0BhooCWmEsl-5tARRfb_azYPBD5/edit)
-=======
-A set of requirements were provided to the project team for the front-end, back-end (server), styling, formatting and deployment:
-
-### MVP Requirements
-  - **Planning**
-    - Have a thoroughly documented Team Expectations Google document / markdown file.
-    - Have a thoroughly developed, beautiful README.md file.
-    - Take time for each team member to discuss where they feel strongest and weakest, in terms of coding ability.
-    - Create a Excalidraw or Whimsical document to convey the data flow with component hierarchy included.
-
-  - **Collaboration**
-    - Contribute equally.
-    - Have a solid understanding of the entire project. (Even the features implemented by other team members.)
-    - Take time to pair program with teammates to reinforce learning.
-    - Be prepared to explain sections of code that were written by teammates.
-    
-    **Client (Front End)**
-    - Have a working, interactive React app, built using npx create-react-app client
-    - Have at least 6 separate, rendered components in an organized and understandable React file structure.
-    - Use only React for DOM Manipulation.
-    - Consume data from your API, and render that data in your components.
-    - Utilize React Router, for client-side routing.
-    - Authentication!
-    
-    **Server (Back End)**
-    - Have working generic router actions for CRUD using Express, Mongoose, and MongoDB.
-    - Have at least 2 models (more if it makes sense)
-    - Have full CRUD on at least one of your models
-    - Be able to Add/Delete on any remaining models (if it makes sense)
-    - Authentication!
-    
-    **Styling**
-    - Be styled with CSS.
-    - Use flexbox (display: flex) or CSS Grid.
-    - Implement responsive design on 2 screen sizes (including desktop) using a media query (mobile).
-    - You can use a CSS framework if you want to.
-    
-    **Linting**
-    - Indent properly.
-    - Utilise high-quality, semantic variable names and follow naming conventions.
-    - Remove unnecessary boilerplate React files and code.
-    - Remove all console.log()s and commented out code (functional notes/comments are okay).
-    
-    **Deployment**
-    - Deploy the fully functional front-end via GitHub Pages or Vercel.
-    - Deploy the back-end via Heroku (or vercel).
-    - Deploy the MongoDB database on MongoDB Atlas.
-
->>>>>>> dev
 
 ## GETTING STARTED/CODE INSTALLATION
 
