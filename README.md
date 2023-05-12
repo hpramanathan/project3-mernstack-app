@@ -10,11 +10,6 @@
 A MERN Full-Stack Website that allows users to sign-up for an account, read, post, edit and delete comments in a Divorce Party Guest Book. This was implemented as a group project consisting of four General Assembly Software Engineering Immersive students with the amusing team name "Chewing the CRUD".  
 
 
-## WHY A DIVORCE PARTY GUESTBOOK? 
-Lots of people will attest to their experience of divorce as one of the best things that ever happened to them. Of course they will want to celebrate with lots of friends and family. What better way to commemorate the celebration than with a Divorce Party Guestbook? The app was developed to help recent divorcees enjoy their divorce party to the fullest and will hopefully let users re-live all the happy memories. A divorce isn't the end; merely the beginning to either a new chapter or a whole new sequel.
->>>>>>> dev
-
-
 ## DEPLOYMENT LINK
 
 - [The Divorce Party Guest Book](https://hpramanathan.github.io/project3-mernstack-app/).
